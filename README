@@ -2,3 +2,4 @@ My first program written in C++, only intended as an exercise in learning syntax
 
 
 So looking at this a year later this program is not even close to C++ 11 best practices, avoid C arrays! Use std::Array instead!
+Also `using namespace std` is a nono.
